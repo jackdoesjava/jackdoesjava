@@ -11,9 +11,6 @@
 
 <p> 🎓 BSc Computer Science (Predicted First Class) @ University of Surrey </p>
 <p> 📈 Spring Intern @ Susquehanna | Credit Risk Spring Intern @ Moody's </p>
-<p> 🏆 1st Place (Surrey), UK University Integration Bee (Round 1) | Top 10% Wunderfund ML Challenge </p>
-<p> ⚛️ Achieved 100% Score in the IBM Qiskit Global Summer School </p>
-<p> 🌱 Incoming MSc by Research focusing on Machine Learning and Risk Analysis </p>
 
 <br><br>
 
