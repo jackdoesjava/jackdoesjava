@@ -36,21 +36,7 @@
 
 </div>
 
-<div align="center">
-  
-## 📂 &nbsp;&nbsp; Engineering & Research
 
-<br>
-
-| | Project | Description | Tech Stack |
-|---|---|---|---|
-| 🦀 | **Formally Verified Mamba SSM** | Engineering a high-performance Mamba inference engine from scratch to process high-frequency market data. | `Rust` `Python` `PyTorch` |
-| 🪐 | **Kepler-Net** | Engineered a custom dilated 1D CNN to classify planetary transits from micro-scale, high-noise flux data. | `Python` `PyTorch` `Pandas` |
-| 📈 | **FFT Spectral Analysis** | Architected a scalable data pipeline utilizing Fast Fourier Transforms (FFT) to extract robust frequency signals from noisy market feeds. | `Python` `NumPy` `Polars` |
-
-<br><br>
-  
-</div>
 
 <div align="center">
   
