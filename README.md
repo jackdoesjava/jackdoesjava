@@ -7,25 +7,20 @@
 
 ## 👨🏻‍💻&nbsp;&nbsp; About Me
 
-<br>
-
 <p> 🎓 BSc Computer Science (Predicted First Class) @ University of Surrey </p>
 <p> 📈 Spring Intern @ Susquehanna | Credit Risk Spring Intern @ Moody's </p>
 
-<br><br>
+<br>
 
 </div>
 
 <div align="center">
   
 ## 💻 &nbsp;&nbsp; Tech Stack 
-
-  <br><br>
   ### Software Engineering
   <!-- Added TypeScript (ts), SQL (mysql/postgres), C++, C#, and Linux to your core web/systems stack -->
   <img src="https://skillicons.dev/icons?i=py,rust,java,cpp,cs,ts,js,react,nextjs,express,html,css,scss,mysql,git,github,docker,linux&theme=light&perline=9" />
   
-  <br><br>
   ### Quantitative & Machine Learning
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -39,20 +34,11 @@
 
 
 <div align="center">
-  
-## 📈 &nbsp;&nbsp; Stats 
 
-<br><br>
-
-| **Language Stats** | **GitHub Stats** |
-|---|---|
-| [![Top_Lang](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jackdoesjava&layout=compact&theme=tokyonight)](https://github.com/jackdoesjava) | [![GitHub_Stats](https://github-readme-stats-fast.vercel.app/api?username=jackdoesjava&show_icons=true&theme=tokyonight)](https://github.com/jackdoesjava) |
-
-<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=jackdoesjava&label=Profile%20Views&color=3B82F6&style=flat" alt="Profile Views"/>
 
-<br><br><br>
+<br><br>
 
  </div>
 
