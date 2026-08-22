@@ -19,7 +19,7 @@
 ## 💻 &nbsp;&nbsp; Tech Stack 
   ### Software Engineering
   <!-- Added TypeScript (ts), SQL (mysql/postgres), C++, C#, and Linux to your core web/systems stack -->
-  <img src="https://skillicons.dev/icons?i=py,rust,java,cpp,cs,ts,js,react,nextjs,express,html,css,scss,mysql,git,github,docker,linux&theme=light&perline=9" />
+  <img src="https://skillicons.dev/icons?i=py,rust,ts,js,react,nextjs,express,html,css,scss,mysql,git,github,docker,linux&theme=light&perline=9" />
   
   ### Quantitative & Machine Learning
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -48,7 +48,7 @@
 <br><br><br>
 
   <a href="https://www.linkedin.com/in/jackdoesjava/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1jE5hyBFA4NzkQI1WxMXF-vEtHVkOzCpr/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-3B82F6?&logo=googledrive&logoColor=fff"/></a>
+  <a href="https://drive.google.com/file/d/1GNkhhb35Vc9C5_b6RRTAHJEETvY9Jozw/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-3B82F6?&logo=googledrive&logoColor=fff"/></a>
   <br><br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=footer" alt="footer"/>
