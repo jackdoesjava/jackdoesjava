@@ -5,7 +5,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=3B82F6&height=200&text=Jack%20Humphries&fontSize=60&fontColor=F0F0F0&fontAlignY=40&desc=Aspiring%20ML%20Quant%20%7C%20CS%20Undergrad&descSize=20&descAlignY=67&animation=twinkling&stroke=F0F0F0A&strokeWidth=2)
 
-## 👨🏻‍💻&nbsp;&nbsp; About Me
+## About Me
 
 <p> 🎓 BSc Computer Science (Predicted First Class) @ University of Surrey </p>
 <p> 📈 Spring Intern @ Susquehanna | Credit Risk Spring Intern @ Moody's </p>
@@ -16,12 +16,11 @@
 
 <div align="center">
   
-## 💻 &nbsp;&nbsp; Tech Stack 
-  ### Software Engineering
+## Tech Stack 
   <!-- Added TypeScript (ts), SQL (mysql/postgres), C++, C#, and Linux to your core web/systems stack -->
   <img src="https://skillicons.dev/icons?i=py,rust,ts,js,react,nextjs,express,html,css,scss,mysql,git,github,docker,linux&theme=light&perline=9" />
   
-  ### Quantitative & Machine Learning
+  ### 
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
