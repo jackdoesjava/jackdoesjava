@@ -3,7 +3,7 @@
 <div align="center">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=header" alt="header"/>
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=3B82F6&height=200&text=Jack%20Humphries&fontSize=60&fontColor=F0F0F0&fontAlignY=40&desc=Aspiring%20ML%20Quant%20%7C%20CS%20Undergrad&descSize=20&descAlignY=67&animation=twinkling&stroke=F0F0F0A&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=venom&color=3B82F6&height=200&text=Jack%20Humphries&fontSize=60&fontColor=F0F0F0&fontAlignY=40&desc=Aspiring%20SWE/%20Quant%20%7C%20CS%20Undergrad&descSize=20&descAlignY=67&animation=twinkling&stroke=F0F0F0A&strokeWidth=2)
 
 ## About Me
 
